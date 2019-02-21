@@ -22,5 +22,3 @@ function bubbleSort(arr) {
 }
 
 console.log(bubbleSort([5, 7, 2, 35, 12, 66]));
-
-// comment
